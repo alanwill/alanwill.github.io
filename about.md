@@ -6,10 +6,15 @@ permalink: /about/
 
 Guess what? I'm Alan!
 
-### More Information
+No really, I am, here's my fingerprint:
 
-I'll fill this in eventually but until then, find me on the social networks below and draw your own "About Alan" conclusions :)
+```
+A6F6 A7F1 BDBA 605E A959 031B 8F58 1915 04B3 2B33
+```
+and key
 
-### Contact me
+```
+curl -L keybase.io/alanwill/key.asc
+```
 
-Use any of the icons below to contact me where ever you are.
+[https://keybase.io/alanwill](https://keybase.io/alanwill)
