@@ -5,12 +5,13 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}<br>
+    <i>{% include read_time.html %} read</i><br>
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
