@@ -33,7 +33,7 @@ baseurl: ""
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 # Markdown Processors
