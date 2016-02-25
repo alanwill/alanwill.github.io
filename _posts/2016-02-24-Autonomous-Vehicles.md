@@ -19,7 +19,7 @@ Why am I so excited for this day? Think of some of the benefits it'll bring...
 
 It may sound like I don't like driving which is quite the contrary but after a while driving becomes a very mundane and repetitive task. That's where the opportunity lies to do something else with that time. I dislike the feeling that driving today is mandatory, i.e. I can't get from my house to work unless I get into my car and drive there, or hop on public transportation (a bus) which takes 90 minutes due to traffic.
 
-When this day arrives it'll be a completely different world as we know it. It would change us in many ways and force us to evolve into new industries and ways of living. Certain jobs will be forced to change, we'll see socioeconomic shifts as well as the entire transportation industry is massively disrupted, IMHO for the better. 
+When this day arrives it'll be a completely different world as we know it. It would change us in many ways and force us to evolve into new industries and ways of living. Certain jobs will be forced to change, we'll see socioeconomic shifts as well as the entire transportation industry is massively disrupted, IMHO for the better.
 
 I don't know when this day will come, but I hope it's in my lifetime. It's not going to happen overnight but I'm encouraged everyday by the advancements I see being done by the pioneering companies I listed in the beginning of the article.
 
